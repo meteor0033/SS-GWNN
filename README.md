@@ -17,6 +17,6 @@ Books、Reddit、Weibo、Disney、Enron、Cora
 
 # Acknowledgement
 Our code references:
-- [LGSS-GAD]([https://github.com/meteor0033/LGSS-GAD])
+- [SS-GWNN]([https://github.com/meteor0033/SS-GWNN])
 
 # Reference 
